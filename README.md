@@ -5,5 +5,4 @@
 Jakub is my name
 
 **THIS is bold**
-
 Lets do something else
