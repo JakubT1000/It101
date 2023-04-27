@@ -1,4 +1,9 @@
 # It101 this is a header
-## this is a shreeder
+
+## this is a subheader
+
 Jakub is my name
-**this is bold **
+
+**THIS is bold**
+
+Lets do something else
